@@ -28,4 +28,4 @@ Deepfake Video Prediction Page
 ## Installation and Usage
 1. Clone the repository: git clone https://github.com/mohyd2233/Deepfake-Detection-Project
 2. Install dependencies: pip install -r requirements.txt
-3. Run the Flask app: python app.py
+3. Run the Django app
