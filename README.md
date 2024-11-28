@@ -13,3 +13,19 @@ This is a deepfake detection system based on neural networks and deep learning t
 
 ### UI of the Application
 
+Deepfake Video Uploading Page
+
+<p align="center">
+  <img src="https://github.com/mohyd2233/Deepfake-Detection-Project/blob/main/github_assets/main_landing_page.jpeg" />
+</p>
+
+Deepfake Video Prediction Page
+
+<p align="center">
+  <img src="https://github.com/mohyd2233/Deepfake-Detection-Project/blob/main/github_assets/prediction_page.png" />
+</p>
+
+## Installation and Usage
+1. Clone the repository: git clone https://github.com/mohyd2233/Deepfake-Detection-Project
+2. Install dependencies: pip install -r requirements.txt
+3. Run the Flask app: python app.py
